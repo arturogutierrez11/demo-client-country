@@ -1,0 +1,77 @@
+.card{
+    
+  
+
+    display: flex; /* Safari */
+    display: inline-block;
+    margin-right:  70px;
+    margin-left: 100px;
+    margin-top: 10px;
+    align-items: center;
+    border: 10px;
+    border-color: white;
+   
+   
+   
+  
+}
+
+.countryImage{
+    border-radius: 10px;
+    align-items: center;
+    flex: center;
+}
+.name{
+    display: -webkit-flex;
+    display: flex;
+    width: 250px;
+    height: 50px;
+    align-items: center;
+    flex-direction: column;
+    background-color: transparent;
+    margin-bottom: 20px;
+    font-size: 1.8em;
+}
+.continents{
+    display: -webkit-flex;
+    display: flex;
+    width: 250px;
+    height: 50px;
+   
+    justify-content: center;
+    background-color: transparent;
+    margin-bottom: -29px;
+    font-size: 1.3em;
+}
+.poblacion{
+    display: -webkit-flex;
+    display: flex;
+    width: 250px;
+    height: 50px;
+    align-items: center;
+    flex-direction: column;
+    background-color: transparent;
+    margin-bottom: -29px;
+    font-size: 1.1em;
+}
+.vermas{
+     display: flex;
+     flex-direction: column;
+   margin-left: 71px;
+    width: 100px;
+    height: 30px;
+   align-items: center;
+   
+    background-color: white;
+    margin-bottom: 7px;
+    margin-top: 15px;
+    font-size: 1.0em;
+    color: rgb(53, 50, 50);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: none
+}
+.vermas:hover{
+    background-image: linear-gradient(#100f10, #e5e5e5);
+    color: rgb(251, 250, 252);
+
+}

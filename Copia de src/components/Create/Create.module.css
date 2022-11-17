@@ -1,0 +1,288 @@
+/* .contenedor{
+    margin: 0;
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/370/608/909/background-earth-continents-world-map-hd-wallpaper-preview.jpg");
+    background-size: 100% 100% ;
+    height: 1500px;
+    background-attachment: fixed; 
+}
+.titulo{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.9em;
+    margin-top: 0px;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+.home{
+   
+   margin-left: -925%;
+   margin-top: 4px;
+    width: 95px;
+    height: 22px;
+    border:  none;
+    border-radius: 15px;
+    cursor: pointer;
+}
+.nameForm{
+   
+    display: flex;
+    justify-content: center;
+}
+.name1{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.5em;
+    color: white;
+    margin: 2px;
+    margin-right: 30px;
+    display: flex;
+    justify-content: center;
+
+}
+.inputname{
+    margin-top: 6px ;
+    width: 15%;
+    height: 25px;
+    display: flex;
+    justify-content: center;
+    border:  none;
+    border-radius: 15px;
+}
+.nameDif{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.5em;
+    color: white;
+    display: flex;
+    justify-content: center;
+   margin-left: -63px;
+  
+
+}
+.nameError{
+    color: red;
+   margin: 20px;
+    margin-top: 10px
+
+
+}
+.dificultad{
+    margin-top: 30px ;
+    display: flex;
+    justify-content: center;
+   
+
+}
+.range{
+    margin-top: -15px;
+    margin-left:30px;
+    color: white;
+}
+.duracion{
+    display: flex;
+    justify-content: center;
+}
+.name3{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.5em;
+    color: white;
+   
+
+}
+.input3{
+    margin-left: 29px;
+}
+.temporada{
+    width: 100%;
+    height: 50px;
+    margin-top: 20px ;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: center;
+  align-items: center;
+    color: white;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  
+
+}
+.nameT{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.6em;
+    margin: 17px;
+}
+.pais{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    height: 40px;
+}
+.nameP{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.6em;
+    margin: 17px;
+
+}
+.crear{
+    width: 95px;
+    height: 22px;
+    border:  none;
+    border-radius: 15px;
+    cursor: pointer;
+    margin-left: 1%;
+
+}
+.errores{
+    color: red;
+    display: flex;
+    justify-content: center;
+}
+.map{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.6em;
+
+}
+.bandera{
+  display: flex;
+  justify-content: center;
+  
+}
+
+.seleccion{
+    border: rgb(255, 255, 255) solid 2px;
+    border-radius: 5px;
+    height: 100px;
+    width: 80px;
+
+
+}
+.nombre{
+    display: flex;
+    justify-content: center;
+} */
+
+
+
+.contenedor{
+    margin: 0;
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/370/608/909/background-earth-continents-world-map-hd-wallpaper-preview.jpg");
+    background-size: 100% 100% ;
+    height: 1000px;
+    margin-top: -30px;
+    background-attachment: fixed; 
+}
+.titulo{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.9em;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+.name{
+    display: flex;
+    justify-content: center;
+}
+.nameTitle{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.4em;
+    margin: 5px;
+    color: white;
+
+}
+.temporada{
+    
+    height: 50px;
+    width: 100%;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    color: white;
+
+
+}
+.nameTempo{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.4em;
+    margin: 5px;
+
+}
+.dificultad{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px ;
+    color: white;
+}
+.nameDif{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.4em;
+    margin: 5px;
+
+}
+.duracion{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    color: white;
+}
+.nameDur{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.4em;
+    margin: 5px;
+}
+.pais{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    color: white;
+}
+.namePais{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.4em;
+    margin: 5px;
+
+}
+.paises{
+    color: white;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.4em;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+}
+.button{
+    border: none;
+    border-radius: 13px;
+    margin: 6px;
+}
+.crear{
+  margin-left: 42%;
+  margin-right: 50%;
+   height: 22px;
+   width: 20%;
+   border: none;
+   border-radius: 10px;
+}
+.crear:hover{
+    background-image: linear-gradient(#100f10, #e5e5e5);
+    color: rgb(251, 250, 252);
+}
+
+
+.homebutton{
+    height: 22px;
+    width: 150px;
+   position:inherit;
+   
+   
+  
+    margin-bottom: 10%;
+    border: none;
+    border-radius: 10px;
+
+
+}
+.homebutton:hover{
+    background-image: linear-gradient(#100f10, #e5e5e5);
+    color: rgb(251, 250, 252);
+
+
+}

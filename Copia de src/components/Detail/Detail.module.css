@@ -1,0 +1,190 @@
+.bodyDetail {
+    margin: 0;
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/370/608/909/background-earth-continents-world-map-hd-wallpaper-preview.jpg");
+    background-size: 100% 100% ;
+    background-attachment: fixed; 
+    color: white;
+   
+   
+   
+    
+    
+  }
+  .pais{
+   
+    height: 100%;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.0em;
+    margin: 80px;
+    align-items: center;
+    border-radius: 16px;
+    padding-top: -10px;
+    width: 500px;
+    height: 600px;
+    
+    box-shadow: rgba(0, 0, 0, 0.5) 0px 54px 55px,
+      rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+      rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    backdrop-filter: blur(16px) saturate(180%);
+    
+    border: 1px solid rgba(209, 213, 219, 0.3);
+  
+    justify-items: center;
+  
+    z-index: 1;
+  }
+  
+  .h1name{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 2.4em;
+
+  }
+  
+  .cards1 {
+    position: relative;
+    
+    align-items: center;
+    margin: 80px;
+    padding-top: 5px;
+    width: 500px;
+    height: 600px;
+    border-radius: 16px;
+  
+     
+  
+    backdrop-filter: blur(16px) saturate(180%);
+    
+    
+    border: 1px solid rgba(209, 213, 219, 0.3);
+  
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+      rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+      rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  
+   
+  }
+  
+  .cards2 {
+    margin-top: 30% ;
+    height: 100%;
+    width: 50%;
+    
+    margin: 80px;
+    align-items: center;
+    border-radius: 16px;
+    padding-top: 5px;
+    width: 500px;
+    height: 600px;
+    overflow: hidden;
+    box-shadow: rgba(0, 0, 0, 0.5) 0px 54px 55px,
+      rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+      rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+   backdrop-filter: blur(16px) saturate(180%);
+   
+    border: 1px solid rgba(209, 213, 219, 0.3);
+  
+    justify-items: center;
+  
+    z-index: 1;
+  }
+  .contenedor{
+    display: flex;
+    display: row;
+  }
+  .titlee{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 2.1em;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    
+
+  }
+  .actcontent {
+    align-items: center;
+    text-align: center;
+    width: 500px;
+   
+  }
+  .codigo{
+    font-size: 0.9em;
+    
+  }
+  
+  .cardAct {
+   
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    margin-left:14px ;
+    margin-right: 40px;
+    border: 1px solid rgba(5, 5, 5, 0.3);
+    border-radius: 20px;
+    padding: 0px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 30px 40px,
+      rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+      rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  }
+  
+  .btnact {
+    margin-top: 2px;
+    width: 200px;
+    height: 35px;
+    cursor: pointer;
+    border:  none;
+    border-radius: 20px;
+    background: white;
+    color: #07070b;
+  }
+  .flagsStyle {
+    width: 200px;
+    height: 127px;
+    margin-top: -9px;
+    margin-bottom: 10px;
+    align-items: center;
+    position: relative;
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .datapais{
+    font-size: 1.3em;
+   margin-left: 30px;
+   
+    
+  }
+  .nameact {
+    border: black 1px solid;
+    border-radius: 5px;
+    border-width: 3px;
+  }
+  .notVol {
+    margin-top: 15px;
+    margin-left: 20px;
+    width: 150px;
+    height: 24px;
+    border:  none;
+    border-radius: 15px;
+    cursor: pointer;
+    z-index: 0;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  

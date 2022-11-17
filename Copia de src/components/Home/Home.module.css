@@ -1,0 +1,221 @@
+.contenedor{
+     background-image: url(https://c4.wallpaperflare.com/wallpaper/370/608/909/background-earth-continents-world-map-hd-wallpaper-preview.jpg);
+    background-size: 100% 100% ;
+   
+   
+    background-attachment: fixed; 
+
+    color: white;
+    
+}
+.title{
+    margin-left: 30%;
+}
+.buscador{
+    background-color: hsl(0, 1, 32);
+   height: 50px;
+   width: 100%;
+   margin-top: 10px;
+   margin-bottom: 10px;
+
+}
+.inicio{
+    background-color: white;
+    margin-top: 0%;
+    height: 50px;
+    width: 100%;
+}
+.arriba{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    margin: auto;
+   display: flex;
+   background: rgb(83, 81, 81);
+   padding: 9px 22px 4px 26px;
+   border-radius: 5px;
+   border: 2px rgb(255, 255, 255);
+  
+    
+
+    
+}
+.refrescar{
+    margin-left: 0%;
+    margin-bottom: 7px;
+    margin-right: 40px;
+    inherits: 10px;
+    width: 150px;
+    height: 24px;
+    border:  none;
+    border-radius: 15px;
+    cursor: pointer;
+
+}
+.refrescar:hover {
+    background-image: linear-gradient(#100f10, #e5e5e5);
+    color: rgb(251, 250, 252);
+  }
+.arraque{
+    width: 150px;
+    height: 24px;
+    border:  none;
+    border-radius: 15px;
+    cursor: pointer;
+
+}
+.arraque:hover {
+    background-image: linear-gradient(#100f10, #e5e5e5);
+    color: rgb(251, 250, 252);
+  }
+.total{
+    border: 3px solid;
+    border-radius: 7px;
+}
+.filtros{
+   background-color: white;
+   background: hsl(0, 1%, 32%);
+   padding: 9px 22px 4px 26px;
+   border-radius: 1px;
+   border: 2px rgb(255, 252, 252);
+   margin-left: 3px;
+   margin-right: 4px;
+   display: flex;
+   display: row;
+}
+.filtrado{
+    color: black;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 0.9em;
+   margin-left: 4%;
+   margin-right: 11%;
+}
+.up{
+   background-color: white;
+    
+ 
+
+}
+.continents{
+    margin-top: 30px;
+    width: 150px;
+    height: 24px;
+    border:  none;
+    border-radius: 15px;
+    cursor: pointer;
+    margin-left: 310%;
+    margin-right: 20px;
+}
+.continents:hover {
+    background-image: linear-gradient(#100f10, #e5e5e5);
+    color: rgb(251, 250, 252);
+  }
+.activities{
+    margin-top: 30px;
+    margin-left: 30%;
+    margin-right: 19%;
+    width: 150px;
+    height: 24px;
+    border:  none;
+    border-radius: 15px;
+    cursor: pointer;
+}
+.activities:hover {
+    background-image: linear-gradient(#100f10, #e5e5e5);
+    color: rgb(251, 250, 252);
+  }
+.orden{
+    background-color: white;
+   background: hsl(0, 1%, 32%);
+   padding: 1px 1px 1px 1px;
+   border-radius: 1px;
+   border: 2px rgb(255, 252, 252);
+   margin-left: 3px;
+   margin-right: 4px;
+   display: flex;
+   display: row;
+   margin-top: 0;
+   margin-bottom: -1%;
+  
+
+}
+.order{
+    color: black;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 0.9em;
+   margin-left: 5.8%;
+   margin-right: 11%;
+}
+.name{
+    margin-top: 30px;
+    margin-left: 324% ;
+    margin-right: 10px;
+    width: 150px;
+    height: 24px;
+    border:  none;
+    border-radius: 15px;
+   
+
+}
+.name:hover {
+    background-image: linear-gradient(#100f10, #e5e5e5);
+    color: rgb(251, 250, 252);
+  }
+
+.population{
+    margin-top: 30px;
+
+    margin-left: 129%;
+    width: 150px;
+    height: 24px;
+    border:  none;
+    border-radius: 15px;
+    cursor: pointer;
+   
+
+}
+.population:hover {
+    background-image: linear-gradient(#100f10, #e5e5e5);
+    color: rgb(251, 250, 252);
+  }
+.actividad{
+    width: 150px;
+    height: 24px;
+    border:  none;
+    border-radius: 15px;
+    cursor: pointer;
+    margin-left: 339%;
+    margin-top: 45% ;
+   
+}
+.actividad:hover {
+    background-image: linear-gradient(#100f10, #e5e5e5);
+    color: rgb(251, 250, 252);
+  }
+.barra{
+     /* background-image: url(https://c4.wallpaperflare.com/wallpaper/370/608/909/background-earth-continents-world-map-hd-wallpaper-preview.jpg);
+    background-size: 100% 100% ;
+   
+   
+    background-attachment: fixed;  */
+    background-color: white;
+    height: 12px;
+    width: 100%;
+    margin-top: -1px;
+}
+.loading{
+    display: flex;
+    justify-content: center;
+    color: black;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 01.9em;
+
+}
+.loading2{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    color: black;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 01.9em;
+}

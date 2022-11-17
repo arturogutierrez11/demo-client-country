@@ -1,0 +1,26 @@
+.paginado{
+    margin-left: 1%;
+    margin-bottom: -3%;
+    margin-top: 3%;
+    display: flex;
+    display: center;
+    color: rgb(255, 248, 248);
+
+}
+
+.boton{
+    color: black;
+    float: left;
+    padding: 4px 14px;
+    text-decoration: none;
+    border: none;
+    border-radius: 20px;
+    margin: 1px;
+    background-color: rgb(22, 22, 22);
+    color: white;
+    
+}
+.boton:hover{
+    background-image: linear-gradient(#ffffff, #000000);
+    color: rgb(251, 250, 252);
+}

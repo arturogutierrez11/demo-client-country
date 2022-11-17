@@ -1,0 +1,21 @@
+
+  .SearchBar{
+    width: 150px;
+    height: 24px;
+    border:  none;
+    border-radius: 15px;
+    
+  }
+  .buscar{
+    width: 60px;
+    margin: 5px;
+    height: 24px;
+    border:  none;
+    border-radius: 15px;
+    cursor: pointer;
+
+  }
+  .error{
+    color: red;
+    margin-top: 5px;
+  }
